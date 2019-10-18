@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataset>
-  <PERSONS id="d0de31f0-9e14-11e8-98d0-529269fb1459" type="ACCT_CHCK" user_id="dc20cf62-7e63-11e8-adc0-fa7ae01bbebc"
-           account_id="b588cdb6-9e14-11e8-98d0-529269fb1459" event_date="2018-04-21T10:44:47.968"
-           response="El trabajador no trabaja" />
-
-  <ACCOUNTS id="b588cdb6-9e14-11e8-98d0-529269fb1459" curp="GOQO780503MPLNNL02" email="jsolano@aforeazteca.com.mx"
-            cell_phone="5560789675" inception_status="REGISTERED" afore="530" names="OLIVIA" first_surname="GONZALEZ"
-            second_surname="QUINTERO" gender="FEMENINO" dob="1978-05-03" nationality="1"
-            signup_date="2018-08-09T18:44:47.968" key_affiliation="ASSIGNED" country="MEXICO" BORN_PLACE="21" />
+  <PERSONS id="d0de31f0-9e14-11e8-98d0-529269fb1459" names="Grace" first_surname="Hopper" second_surname="" gender="F" birthday="1906-12-06" />
+  <PERSONS id="d0de31f0-9e14-11e8-98d0-529269fb1459" names="Ada" first_surname="Lovelace" second_surname="" gender="F" birthday="1815-12-10" />
+  <PERSONS id="d0de31f0-9e14-11e8-98d0-529269fb1459" names="Lise" first_surname="Meitner" second_surname="" gender="F" birthday="1878-11-07" />
+  <PERSONS id="d0de31f0-9e14-11e8-98d0-529269fb1459" names="René" first_surname="Descartes" second_surname="" gender="M" birthday="1596-03-31" />
 </dataset>

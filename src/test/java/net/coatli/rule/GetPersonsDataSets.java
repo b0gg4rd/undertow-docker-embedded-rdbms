@@ -11,8 +11,7 @@ import org.junit.runner.Description;
 
 public class GetPersonsDataSets extends TestWatcher {
 
-  private static final Map<String, String> METHODS = of("thatGetEventsWithValidUserIdReturn200Works", null,
-                                                        "thatGetEventsWithValidUserIdReturnNotEmptyListWorks", null);
+  private static final Map<String, String> METHODS = of("thatGetPersonsReturnsNotEmptyListWorks", null);
 
   private final DbUnit dbUnit;
 
